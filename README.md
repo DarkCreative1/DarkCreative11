@@ -1,1 +1,2 @@
-1.0.0
+OPEN: TRUE
+VERSION: 0.1
